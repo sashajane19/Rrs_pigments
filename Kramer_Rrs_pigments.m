@@ -1,6 +1,6 @@
 %Sasha Kramer
-%skramer@mbari.org
-%UCSB IGPMS
+%sjkramer@bu.edu
+%UCSB IGPMS - MBARI - Boston University
 
 %%%Script to model pigments from hyperspectral reflectance residual
 %Modified from aph version written by Dylan Catlett: https://github.com/dcat4/bioOptix_and_PFTs
