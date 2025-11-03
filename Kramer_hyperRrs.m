@@ -1,6 +1,6 @@
 %Sasha Kramer
-%skramer@mbari.org
-%UCSB IGPMS
+%sjkramer@bu.edu
+%UCSB IGPMS - MBARI - Boston University
 
 %%%Script to run hyperspectral reflectance model from Kramer et al. (2022)
 %Runs with: betasw_ZHH2009.m, gsm_invert.m, gsm_cost.m
